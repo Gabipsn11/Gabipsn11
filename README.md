@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BAb4&random=false&width=600&height=40&lines=Olá!+Meu+Nome+é+Gabriela+Pires!;Eu+sou+uma+programadora+iniciante!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=688391&random=false&width=600&height=40&lines=Olá!+Meu+Nome+é+Gabriela+Pires!;Eu+sou+uma+programadora+iniciante!)](https://git.io/typing-svg)
 
 <p align="justify">🌎 Hello World! Tenho 18 anos e estou dando os primeiros passos na minha jornada no mundo da tecnologia.</p>
 
@@ -10,8 +10,9 @@
 <br>
 
 <p align="center">
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaPires&show_icons=true&theme=white" alt="Status do Perfil:"/>
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=white" alt="Linguagens mais usadas:"/>
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaPires&show_icons=true&bg_color=f5f5f5&text_color=688391&icon_color=688391&title_color=688391&border_color=d3d9de" alt="Status do Perfil:"/>
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&bg_color=f5f5f5&text_color=688391&title_color=688391&border_color=d3d9de" alt="Linguagens mais usadas:"/>
+
 </p>
 
 <br>
