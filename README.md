@@ -10,8 +10,8 @@
 <br>
 
 <p align="center">
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaPires&show_icons=true&bg_color=f5f5f5&text_color=688391&icon_color=688391&title_color=688391&border_color=d3d9de" alt="Status do Perfil:"/>
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&bg_color=f5f5f5&text_color=688391&title_color=688391&border_color=d3d9de" alt="Linguagens mais usadas:"/>
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaPires&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=c9d1d9&title_color=c9d1d9&border_color=0d1117" alt="Status do Perfil:"/>
+<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=c9d1d9&border_color=0d1117" alt="Linguagens mais usadas:"/>
 
 </p>
 
