@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E1FF00&background=000000&width=600&height=40&lines=Olá!+Meu+Nome+é+Gabriela+Pires!;Eu+sou+uma+programadora+iniciante!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8F446&width=600&height=40&lines=Hey%2F+I’m+Gabriela.+I’m+into+computer+stuff!)](https://git.io/typing-svg)
 
 <p align="justify" style="color:#E1FF00;">🌎 Hello World! Tenho 18 anos e estou dando os primeiros passos na minha jornada no mundo da tecnologia.</p>
 
