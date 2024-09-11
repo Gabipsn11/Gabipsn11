@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8F446&width=600&height=40&lines=Hey%2F+I’m+Gabriela.+I’m+into+computer+stuff!)](https://git.io/typing-svg)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BFFF00&width=700&height=50&lines=Hey%2F+I’m+Gabriela.+I'm+into+computer+stuff!)](https://git.io/typing-svg)
+</div>
 
 <p align="justify" style="color:#E1FF00;">🌎 Hello World! Tenho 18 anos e estou dando os primeiros passos na minha jornada no mundo da tecnologia.</p>
 
@@ -8,8 +11,6 @@
 
 <br>
 
-<p align="center">
-<img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielaPires&show_icons=true&bg_color=000000&text_color=E1FF00&icon_color=E1FF00&title_color=E1FF00&border_color=000000" alt="Status do Perfil:"/>
 <img width="400px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&bg_color=000000&text_color=E1FF00&title_color=E1FF00&border_color=000000" alt="Linguagens mais usadas:"/>
 </p>
 
