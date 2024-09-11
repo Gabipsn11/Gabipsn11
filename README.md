@@ -3,6 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BFFF00&width=700&height=50&lines=Hey%2F+I’m+Gabriela.+I'm+into+computer+stuff!)](https://git.io/typing-svg)
 </div>
 
+
 <p align="justify" style="color:#E1FF00;">🌎 Hello World! Tenho 18 anos e estou dando os primeiros passos na minha jornada no mundo da tecnologia.</p>
 
 <p align="justify" style="color:#E1FF00;">Atualmente cursando o terceiro período de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac Recife.</p>
