@@ -13,6 +13,6 @@
 
 <br> <br> <br> <br>
 
-<div style="border: 2px solid white; padding: 10px; border-radius: 10px; display: flex; justify-content: center; width: 100%; max-width: 300px; margin: 0 auto; text-align: center;">
+<div style="padding: 10px; border-radius: 10px; display: flex; justify-content: center; width: 100%; max-width: 300px; margin: 0 auto; text-align: center; border: 2px solid white !important;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&bg_color=000000&text_color=E1FF00&title_color=E1FF00&border_color=000000" alt="Linguagens mais usadas:" width="350px" style="border: none; margin: 0 auto;" />
 </div>
