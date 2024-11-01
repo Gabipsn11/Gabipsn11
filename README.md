@@ -22,7 +22,7 @@ In my free time, I work on college projects while listening to music
 
 ## More About Me 🦔
 
-* I started coding at **14 years old** during high school, influenced by some YouTube channels I watched about **programming games** or **gameplays**.
+* I started coding at **16 years old** during high school, influenced by some YouTube channels I watched about **programming games** or **gameplays**.
 * My first programming language was **JavaScript**. I rarely use **TypeScript** now, but I'm planning to get back into **Java**.
 * I had experience with **Game Maker** at the age of **10** but didn't continue with it.
 * I love music 🎧
