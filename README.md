@@ -8,7 +8,7 @@
       lifelong learning ➧ gymgirl ➧ 19y ➧ she/her
       <br>
        <br>
-             I'm a programmer focused on fullstack development, currently in my fourth semester of ADS at Senac Recife. I enjoy anything related to coding and exploring new technologies. At the moment, I'm working on college projects while improving my skills in JavaScript and React Native.
+             I'm a programmer focused on fullstack development, currently in my fourth semester of ADS at Senac Recife. I enjoy anything related to coding and exploring new technologies. At the moment, I'm working on college projects while improving my skills in JavaScript and Backend.
        <br>
        <br>
       langs && frameworks:<br>
