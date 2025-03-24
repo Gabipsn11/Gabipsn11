@@ -8,11 +8,11 @@
       lifelong learning ➧ gymgirl ➧ 19y ➧ she/her
       <br>
        <br>
-             I'm a programmer focused on fullstack development, currently in my third semester of ADS at Senac Recife. I enjoy anything related to coding and exploring new technologies. At the moment, I'm working on college projects while improving my skills in JavaScript and React Native.
+             I'm a programmer focused on fullstack development, currently in my fourth semester of ADS at Senac Recife. I enjoy anything related to coding and exploring new technologies. At the moment, I'm working on college projects while improving my skills in JavaScript and React Native.
        <br>
        <br>
       langs && frameworks:<br>
-          > python, jupyter, javascript, springboot, react.js, react native, node.js, express, git,  mongodb, mysql, pandas, postman and i plan to go back to studying Java and springboot.
+          > python, jupyter, javascript, springboot, react.js, react native, node.js, express, git, mongodb, mysql, pandas, postman and i plan to go studying Java and springboot.
       <br>
     <br>
     When I'm not coding, you might find me:
