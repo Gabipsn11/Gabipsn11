@@ -7,30 +7,29 @@
 ┌──────────────────────────────┐
 │ 💾 Kali Linux Terminal       │
 └──────────────────────────────┘
-┌──(gabipsn11㉿kali)-[~]
+┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ whoami
-🌸 Gabriela | 19y | she/her | cool tech enthusiast
+👾 Gabriela | 19y | she/her | cool tech enthusiast
 
-┌──(gabipsn11㉿kali)-[~]
+┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat about.txt
 🌟 I'm a fullstack development enthusiast in my fourth semester of ADS at Senac Recife. I love coding and diving into new technologies. 
   Currently, I'm working on college projects and sharpening my JavaScript and Backend skills.
 
-┌──(gabipsn11㉿kali)-[~]
+┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ ls -la skills/
 💻 python  javascript  jupyter  pandas  react.js  react-native  linux
 💻 node.js  express  git  mongodb  mysql  postman  aws  springboot
 ✨ Learning next: Java, Spring Boot
 
-┌──(gabipsn11㉿kali)-[~]
+┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat hobbies.txt
 🎧 Listening to music
 ♟️ Play chess
-🐱 pet my cat
+🐱 Pet my cat
 🎮 Playing video games (DOOM is my jam! 💥)
   </pre>
 </div>
-
 
 
 <h3 style="font-family: 'IBM Plex Mono', monospace; color: #A1E8CC; margin-top: 20px;">💾 System Stats</h3>
