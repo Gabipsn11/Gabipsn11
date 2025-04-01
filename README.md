@@ -25,9 +25,9 @@
 ┌──(gabipsn11㉿kali)-[~]
 └─$ cat hobbies.txt
 🎧 Listening to music
+♟️ Play chess
 🐱 pet my cat
 🎮 Playing video games (DOOM is my jam! 💥)
-🏋️ At the gym
   </pre>
 </div>
 
