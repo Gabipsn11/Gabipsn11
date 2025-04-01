@@ -13,7 +13,8 @@
 
 ┌──(gabipsn11㉿kali)-[~]
 └─$ cat about.txt
-🌟 I'm a fullstack development enthusiast in my fourth semester of ADS at Senac Recife. I love coding and diving into new technologies. Currently, I'm working on college projects and sharpening my JavaScript and Backend skills.
+🌟 I'm a fullstack development enthusiast in my fourth semester of ADS at Senac Recife. I love coding and diving into new technologies. 
+  Currently, I'm working on college projects and sharpening my JavaScript and Backend skills.
 
 ┌──(gabipsn11㉿kali)-[~]
 └─$ ls -la skills/
