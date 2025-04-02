@@ -9,7 +9,7 @@
 └──────────────────────────────┘
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ whoami
-👾 Gabriela | 19y | she/her | cool tech enthusiast
+👾 Gabriela | 19y | she/her | c oo l t e c h 
 
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat about.txt
