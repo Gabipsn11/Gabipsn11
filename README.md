@@ -5,7 +5,7 @@
 <div style="font-family: 'IBM Plex Mono', monospace; color: #D9E4DD; background-color: #1C2526; padding: 20px; border: 2px dashed #A1E8CC; border-radius: 8px; width: 85%;">
   <pre>
 ┌──────────────────────────────┐
-│ 💾 Kali Linux Terminal       │
+│ 💾 About me Terminal v1.0.0 │
 └──────────────────────────────┘
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ whoami
