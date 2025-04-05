@@ -26,8 +26,8 @@
 └─$ cat hobbies.txt
 🎧 Listening to music
 ♟️ Play chess
-🐱 Pet my cat
-🎮 Playing video games (DOOM is my jam! 💥)
+🐱 Pet my cats
+🎮 Play games
   </pre>
 </div>
 
