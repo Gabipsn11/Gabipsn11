@@ -20,7 +20,7 @@
 └─$ ls -la skills/
 💻 python  javascript  jupyter  pandas  react.js  react-native  linux
 💻 node.js  express  git  mongodb  mysql  postman  aws  springboot
-✨ Learning next: Java, Spring Boot
+✨ Learning next: Java, Spring Boot, docker, hadoop
 
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat hobbies.txt
