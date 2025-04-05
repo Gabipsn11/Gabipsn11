@@ -1,7 +1,6 @@
 <div>
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&pause=1000&color=A1E8CC&background=1C2526&width=500&height=40&lines=Hey%2F+I'm+Gabriela.+I'm+into+programming." alt="Typing SVG" />
 </div>
-
 <div style="font-family: 'IBM Plex Mono', monospace; color: #D9E4DD; background-color: #1C2526; padding: 20px; border: 2px dashed #A1E8CC; border-radius: 8px; width: 85%;">
   <pre>
 ┌──────────────────────────────┐
@@ -13,7 +12,7 @@
 
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat about.txt
-🌟 I'm a fullstack development enthusiast in my fourth semester of ADS at Senac Recife. I love coding and diving into new technologies. 
+🌟 I'm a fullstack development in my fourth semester of ADS at Senac Recife. I love coding and diving into new technologies. 
   Currently, I'm working on college projects and improving my Cybersecurity and Backend skills.
 
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
@@ -30,7 +29,6 @@
 🎮 Play games
   </pre>
 </div>
-
 
 <h3 style="font-family: 'IBM Plex Mono', monospace; color: #A1E8CC; margin-top: 20px;">💾 System Stats</h3>
 <div>
