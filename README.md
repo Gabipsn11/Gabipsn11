@@ -1,5 +1,5 @@
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&pause=1000&color=A1E8CC&background=1C2526&width=500&height=40&lines=Hey%2F+I'm+Gabriela.+I'm+into+programming." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&pause=1000&color=A1E8CC&background=1C2526&width=500&height=40&lines=Hey%2F+I'm+Gabriela.+I'm+into+cybersecurity." alt="Typing SVG" />
 </div>
 <div style="font-family: 'IBM Plex Mono', monospace; color: #D9E4DD; background-color: #1C2526; padding: 20px; border: 2px dashed #A1E8CC; border-radius: 8px; width: 85%;">
   <pre>
