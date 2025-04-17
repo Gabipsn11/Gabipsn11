@@ -24,7 +24,7 @@
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat hobbies.txt
 🎧 Listening to music
-♟️  Play chess
+📺 Watch series
 🐱 Pet my cats
 🎮 Play games
   </pre>
