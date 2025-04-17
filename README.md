@@ -13,7 +13,7 @@
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat about.txt
 🌟 I'm a Web development in my fourth semester of ADS at Senac Recife. I love coding and diving into new technologies. 
-  Currently, I'm working on college projects and improving my Cybersecurity and Backend skills.
+  Currently, I'm working on college projects and improving my Cybersecurity and Programming skills.
 
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ ls -la skills/
