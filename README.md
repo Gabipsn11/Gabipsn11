@@ -4,7 +4,7 @@
 <div style="font-family: 'IBM Plex Mono', monospace; color: #D9E4DD; background-color: #1C2526; padding: 20px; border: 2px dashed #A1E8CC; border-radius: 8px; width: 85%;">
   <pre>
 ┌───────────────────────────────────┐
-│ 💾 My Workstation Terminal v1.0.0 │
+│ 💾 My Workstation Terminal v1.0.0     │
 └───────────────────────────────────┘
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ whoami
@@ -23,10 +23,12 @@
 
 ┌──(<span style="color: #00C4E6;">gabipsn11㉿kali</span>)-[~]
 └─$ cat hobbies.txt
-🎧 Listening to music
-📺 Watch series
+🎧 Listen to music
 🐱 Pet my cats
-🎮 Play games
+👩‍🍳 Learn recipes
+👾 Play with my friends
+📺 Watch movies/series
+   
   </pre>
 </div>
 
