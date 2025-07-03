@@ -35,9 +35,11 @@ I am a fifth-year Systems Analysis and Development student at Senac Recife Colle
   <img title="Matplotlib" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 </p>
 
+<p> 
 <p>
 <p>
-
+<p>
+  
 ## 🦉 Status
 
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=ADFF3F&title_color=ADFF3F&text_color=CCCCCC)
