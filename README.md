@@ -2,7 +2,7 @@
 
 Programming student ▸ 19y ▸ she/her
 
-## About me:
+## 👽 About me:
 
 
 Estudante do quinto ano de Análise e Desenvolvimento de Sistemas na Faculdade Senac Recife, com foco em se tornar uma profissional capacitada para a áreas de segurança da informação e análise de dados. Tenho experiência em desenvolvimento Front-end com HTML, CSS, JavaScript, React e Node.js. Atualmente, estudo Java, Linux e Python para fortalecer minhas habilidades em Back-end, Cibersegurança, Big Data e Inteligência Artificial. Também tenho prática com bancos de dados relacionais (SQL, PostgreSQL) e não relacionais (MongoDB).
@@ -19,19 +19,29 @@ I am a fifth-year Systems Analysis and Development student at Senac Recife Colle
 <p align="left">
   <img title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img title="Java" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img title="HTML" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img title="CSS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img title="HTML5" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img title="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img title="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img title="React" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img title="Node.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img title="MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img title="PostgreSQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img title="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img title="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
   <img title="Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img title="Linux" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img title="GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img title="Pandas" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img title="Jupyter" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img title="Matplotlib" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 </p>
+
+<p>
+<p>
+
+## 🦉 Status
+
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=ADFF3F&title_color=ADFF3F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=ADFF3F)
 
 ---
 
