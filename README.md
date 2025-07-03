@@ -40,8 +40,8 @@ I am a fifth-year Systems Analysis and Development student at Senac Recife Colle
 
 ## 🦉 Status
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=ADFF3F&title_color=ADFF3F)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=ADFF3F)
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=ADFF3F&title_color=ADFF3F&text_color=CCCCCC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=ADFF3F&text_color=CCCCCC)
 
 ---
 
