@@ -5,11 +5,11 @@ Programming student ▸ 19y ▸ she/her
 ## 👽 About me:
 
 
-Estudante do quinto ano de Análise e Desenvolvimento de Sistemas na Faculdade Senac Recife, com foco em se tornar uma profissional capacitada para a áreas de segurança da informação e análise de dados. Tenho experiência em desenvolvimento Front-end com HTML, CSS, JavaScript, React e Node.js. Atualmente, estudo Java, Linux e Python para fortalecer minhas habilidades em Back-end, Cibersegurança, Big Data e Inteligência Artificial. Também tenho prática com bancos de dados relacionais (SQL, PostgreSQL) e não relacionais (MongoDB).
+Estudante do quinto período de Análise e Desenvolvimento de Sistemas na Faculdade Senac Recife, com foco em se tornar uma profissional capacitada para a áreas de segurança da informação e análise de dados. Tenho experiência em desenvolvimento Front-end com HTML, CSS, JavaScript, React e Node.js. Atualmente, estudo Java, Linux e Python para fortalecer minhas habilidades em Back-end, Cibersegurança, Big Data e Inteligência Artificial. Também tenho prática com bancos de dados relacionais (SQL, PostgreSQL) e não relacionais (MongoDB).
 </p>
 
 <p>
-I am a fifth-year Systems Analysis and Development student at Senac Recife College, focused on becoming a qualified professional in the areas of information security and data analysis. I have experience in Front-end development with HTML, CSS, JavaScript, React and Node.js. I am currently studying Java, Linux and Python to strengthen my skills in Back-end, Cybersecurity, Big Data and Artificial Intelligence. I also have experience with relational (SQL, PostgreSQL) and non-relational (MongoDB) databases.
+I am a fifth period Systems Analysis and Development student at Senac Recife College, focused on becoming a qualified professional in the areas of information security and data analysis. I have experience in Front-end development with HTML, CSS, JavaScript, React and Node.js. I am currently studying Java, Linux and Python to strengthen my skills in Back-end, Cybersecurity, Big Data and Artificial Intelligence. I also have experience with relational (SQL, PostgreSQL) and non-relational (MongoDB) databases.
 </p>
 
 ---
