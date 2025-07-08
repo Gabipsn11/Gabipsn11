@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=ADFF3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg)
 
 Programming student ▸ 19y ▸ she/her
 
@@ -41,8 +41,8 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
   
 ## 🦉 Status
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=ADFF3F&title_color=ADFF3F&text_color=CCCCCC)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=ADFF3F&text_color=CCCCCC)
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=c501e2&title_color=c501e2&text_color=CCCCCC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=c501e2&text_color=CCCCCC)
 
 ---
 
