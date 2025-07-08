@@ -34,6 +34,7 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
   <img title="Matplotlib" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 </p>
 
+
 <p> 
 <p>
 <p>
@@ -44,6 +45,7 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=c501e2&title_color=c501e2&text_color=CCCCCC" width="500" height="200">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=c501e2&text_color=CCCCCC" width="500" height="200">
+ <img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/output/snake.svg" alt="Snake animation" />
 </p>
 
 
