@@ -2,7 +2,7 @@
 
 Programming student ▸ 19y ▸ she/her
 
-## 📎About me
+## ✨️ About me
 
 Estudante do quinto período de Análise e Desenvolvimento de Sistemas na Faculdade Senac Recife, com foco em se tornar uma profissional capacitada para a áreas de segurança da informação e análise de dados. Tenho experiência em desenvolvimento Front-end com HTML, CSS, JavaScript, React e Node.js. Atualmente, estudo Java, Linux e Python para fortalecer minhas habilidades em Back-end, Cibersegurança, Big Data e Inteligência Artificial. Também tenho prática com bancos de dados relacionais (SQL, PostgreSQL) e não relacionais (MongoDB).
 </p>
