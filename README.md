@@ -34,7 +34,6 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
   <img title="Matplotlib" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 </p>
 
-
 <p> 
 <p>
 <p>
@@ -45,9 +44,8 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=c501e2&title_color=c501e2&text_color=CCCCCC" width="500" height="200">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabipsn11&layout=compact&theme=transparent&title_color=c501e2&text_color=CCCCCC" width="500" height="200">
- <img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/output/snake.svg" alt="Snake animation" />
 </p>
-
+<img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -55,12 +53,13 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
 
 <p align="left">
   <a href="mailto:gabrielapsn11@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-c501e2?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="linkedin.com/in/gabriela-pires-7787b6279" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/gabriela-pires-7787b6279" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-c501e2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/_gabskiddo" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-c501e2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
+
