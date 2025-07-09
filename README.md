@@ -13,7 +13,7 @@ I am a fifth period Systems Analysis and Development student at Senac Recife Col
 
 ---
 
-## 🪴 Experiences 
+## 🍵 Experiences 
 
 <p align="left">
   <img title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
