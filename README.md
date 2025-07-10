@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg) ![Café pixel](https://github.com/user-attachment/assets/7d29d082-88f2-468d-8f21-7a8d919bb530)
+ 
 
 Programming student ▸ 19y ▸ she/her
 
