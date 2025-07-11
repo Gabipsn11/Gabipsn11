@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/main/coffee.gif" width="150" alt="Café pixel" /> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/main/coffee.gif" width="150" alt="Café pixel" />  <img src="bongocat.gif" alt="Bongo Cat" width="150"/>
  
 
 Programming student ▸ 19y ▸ she/her
