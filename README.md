@@ -44,6 +44,9 @@ I am a fifth-semester Systems Analysis and Development student at Senac Recife C
   <img title="Terminal" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img title="Windows" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img title="Ubuntu" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+  <img title="Eclipse" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
+  <img title="Spring Boot" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img title="Artificial Intelligence" height="32" width="32" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"/>
 </p>
 
 
