@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/main/coffee.gif" width="150" alt="Café pixel" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hello+World!+I'm+Gabriela.&color=c501e2)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/Gabipsn11/Gabipsn11/main/coffee.gif" width="150" alt="Café pixel" /> 
  
 
 Programming student ▸ 19y ▸ she/her
@@ -24,31 +24,32 @@ I am a fifth-semester Systems Analysis and Development student at Senac Recife C
 
 ## 🍵 Experiences 
 
-<p align="left">
-  <img title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img title="Java" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img title="HTML5" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img title="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img title="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img title="React" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img title="Node.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img title="MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img title="PostgreSQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img title="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img title="Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img title="Linux" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img title="GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img title="Pandas" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img title="Jupyter" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-  <img title="Matplotlib" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-  <img title="Terminal" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  <img title="Windows" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img title="Ubuntu" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-  <img title="Eclipse" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
-  <img title="Spring Boot" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img title="Artificial Intelligence" height="32" width="32" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"/>
+<p align="left"> 
+ <img title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+ <img title="Jupyter" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> 
+ <img title="Pandas" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/> 
+ <img title="Matplotlib" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/> 
+ <img title="Artificial Intelligence" height="32" width="32" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg"/> 
+ <img title="Java" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+ <img title="Spring Boot" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> 
+ <img title="VS Code" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+ <img title="Eclipse" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
+ <img title="IntelliJ IDEA" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+ <img title="HTML5" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+ <img title="CSS3" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
+ <img title="JavaScript" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+ <img title="React" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+ <img title="Node.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+ <img title="MySQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+ <img title="PostgreSQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
+ <img title="MongoDB" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+ <img title="Git" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+ <img title="GitHub" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
+ <img title="Terminal" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+ <img title="Linux" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+ <img title="Ubuntu" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
+ <img title="Windows" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
 </p>
-
 
 <p> 
 <p>
