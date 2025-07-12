@@ -22,7 +22,7 @@ I am a fifth-semester Systems Analysis and Development student at Senac Recife C
 
 ---
 
-## 🍵 Experiences 
+## 👾 Experiences 
 
 <p align="left"> 
  <img title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
@@ -56,7 +56,7 @@ I am a fifth-semester Systems Analysis and Development student at Senac Recife C
 <p>
 <p>
   
-## ☕ Status
+## 👩‍💻 Status
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Gabipsn11&show_icons=true&theme=transparent&icon_color=c501e2&title_color=c501e2&text_color=CCCCCC" width="400" height="200">
