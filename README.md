@@ -1,6 +1,6 @@
 🎓 Estudante do 5º período de Análise e Desenvolvimento de Sistemas pela [Faculdade Senac Recife](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas)  
 
-✈️ Aprofundando conhecimentos em Java, Linux, Python, e explorando Back-end, Cibersegurança, Big Data e Inteligência Artificial. 
+✈️ Aprofundando conhecimentos em Java, Linux, Python, e explorando Back-end, Big Data e Inteligência Artificial. 
 
 --- 
  ![Node.js](https://skillicons.dev/icons?i=nodejs) 
