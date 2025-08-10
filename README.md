@@ -11,6 +11,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![AWS](https://skillicons.dev/icons?i=aws)
  ![MySQL](https://skillicons.dev/icons?i=mysql) 
  ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) 
- ![MongoDB](https://skillicons.dev/icons?i=mongodb)![Terminal](https://skillicons.dev/icons?i=terminal)
+ ![MongoDB](https://skillicons.dev/icons?i=mongodb)
