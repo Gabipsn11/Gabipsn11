@@ -1,5 +1,3 @@
-🎓 Estudante do 5º período de Análise e Desenvolvimento de Sistemas pela [Faculdade Senac Recife](https://faculdadesenacpe.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas)  
-
 ✈️ Aprofundando conhecimentos em Java, Python e explorando Back-end, Dados e Inteligência Artificial. 
 
 ----
